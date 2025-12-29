@@ -1,5 +1,6 @@
 {
-  "online": true,
+  "online": false,
   "message": "Program offline. Please wait.",
   "minVersion": "1.1"
 }
+
