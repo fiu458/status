@@ -1,8 +1,9 @@
 {
-  "online": true,
+  "online": false,
   "message": "All systems operational",
   "minVersion": "1.1.0",
   "latestVersion": "1.2.0",
   "updateUrl": "http://github.com/fiu458/AppControl/releases/download/v1.1.0/goodapp_update.zip"
 }
+
 
